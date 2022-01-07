@@ -1,6 +1,6 @@
 About me: https://irekbigaj.github.io/cv/
 
-Different projects in GitHub:
+In GitHub repository I store different projects:
 - HTML, 
 - CSS, 
 - JS, 
